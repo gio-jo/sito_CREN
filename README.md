@@ -3,6 +3,6 @@
 1. parto dalla versione vista assieme il 7 settembre
 
 
-[link al sito](./index.html)
+[link al sito](https://gio-jo.github.io/sito_CREN/)
 
-[prova 2](./index.html)
+
